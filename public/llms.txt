@@ -1,0 +1,13 @@
+# Au Bon Fournil
+
+> Boulangerie-pâtisserie artisanale à Montmagny (95360, Val-d'Oise, France) : pain cuit chaque jour, viennoiseries, pâtisseries et gâteaux sur commande, service traiteur, sandwichs et boissons à emporter.
+
+- Adresse : 2 Rue de Sprimont, 95360 Montmagny
+- Téléphone : 01 87 63 22 62 (+33 1 87 63 22 62)
+- Horaires : lundi, mardi, jeudi, vendredi, samedi et dimanche de 6h45 à 20h00 ; fermé le mercredi
+- Services : pain artisanal, pâtisserie sur commande, traiteur, sandwichs et snacking, boissons à emporter
+- Commandes spéciales (gâteau personnalisé, traiteur) : formulaire en ligne ou par téléphone, idéalement 48 h à l'avance
+
+## Pages
+
+- [Accueil](/): spécialités, formulaire de commande, horaires, plan d'accès et questions fréquentes
